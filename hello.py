@@ -1,2 +1,1 @@
-# MyPythonProjects
-My python practice projects.
+print("Hello World")
